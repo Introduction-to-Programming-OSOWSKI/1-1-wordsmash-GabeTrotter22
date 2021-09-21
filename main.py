@@ -1,4 +1,4 @@
-def wordSmash(Spider,man):
-    print("spiderman")
+def wordSmash(x,m):
+    return x + m
 
-wordSmash("Spider", "man")
+print(wordSmash("Spider", "man"))
